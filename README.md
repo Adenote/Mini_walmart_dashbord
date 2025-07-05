@@ -7,7 +7,7 @@ The head of the Mini Walmart store wants to develop a dashboard to visualize and
 ## 📊 Dataset Description
 
 The analysis is based on 2 Excel file namely Mini_walmart Sales data 2024 and Mini_walmart Sales data 2023
-href="https://github.com/Adenote/Mini_walmart_dashbord/blob/main/Screenshot%202025-07-05%20152636.png">Dataset</a>
+<a href="https://github.com/Adenote/Mini_walmart_dashbord/blob/main/Mini_walmart%20Sales%20data%202023.csv">Dataset Used</a>
 
 
 ## ❓ Key Business Questions (KPIs)
