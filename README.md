@@ -1,4 +1,4 @@
-# Mini_walmart_dashbord
+# Mini Walmart Dashbord
 
 ## 📌 Business Objective
 The head of the Mini Walmart store wants to develop a dashboard to visualize and compare annual sales performance for 2024 against 2023, in order to track progress.
